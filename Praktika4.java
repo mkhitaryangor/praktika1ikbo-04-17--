@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 
-public class Main extends JFrame implements ActionListener{
+public class Praktika4 extends JFrame implements ActionListener{
 
     int FRAME_WIDTH = 400;
     int FRAME_HEIGHT = 300;
